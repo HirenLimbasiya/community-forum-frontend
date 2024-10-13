@@ -10,6 +10,21 @@ const initialState: UserState = {
     id: "",
     name: "",
     email: "",
+    username: "",
+    profile_picture: "",
+    bio: "",
+    social_media: {
+      twitter: "",
+      linkedin: "",
+      github: "",
+      facebook: "",
+      instagram: "",
+      snapchat: "",
+      youtube: "",
+      pinterest: "",
+      discord: "",
+      website: "",
+    },
   },
 };
 
